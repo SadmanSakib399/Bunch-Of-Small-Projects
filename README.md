@@ -48,6 +48,6 @@ Each project is simple, fun, and great for practicing coding concepts.
 ---
 
 ### Kanye Quotes
-<img src="./images/kanye_quotes" width="400">
+<img src="./images/kanye_quote" width="400">
 
 ---
