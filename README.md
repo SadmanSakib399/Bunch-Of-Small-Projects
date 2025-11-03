@@ -41,3 +41,8 @@ Each project is simple, fun, and great for practicing coding concepts.
 <img src="./images/miles_to_km.png" width="400">
 
 ---
+
+### Flash Card
+<img src="./images/flash_card.png" width="400">
+
+---
