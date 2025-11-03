@@ -46,3 +46,8 @@ Each project is simple, fun, and great for practicing coding concepts.
 <img src="./images/flash_card.png" width="400">
 
 ---
+
+### Kanye Quotes
+<img src="./images/kanye_quotes" width="400">
+
+---
