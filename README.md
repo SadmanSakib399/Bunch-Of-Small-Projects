@@ -51,8 +51,3 @@ Each project is simple, fun, and great for practicing coding concepts.
 <img src="./images/kanye_quotes.png" width="400">
 
 ---
-
-### Quizzler
-<img src="./images/Quizzler.png" width="400">
-
----
